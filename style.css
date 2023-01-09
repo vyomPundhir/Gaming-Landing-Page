@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.bg-img{
+  width: 1212.8px;
+  height: 680px;
+  margin-top: -92px;
+}
+.nav{
+  background: transparent;
+  position: absolute;
+  margin-top: -562px;
+  display: flex;
+  flex-direction: row;
+
+}
+.nav-logo{
+  background: transparent;
+  margin-left: 102px;
+}
+.nav-logo img{
+  width: 118px;
+  margin-top: -3.5px;
+}
+.nav-menu{
+  background: transparent;
+  display: flex;
+  flex-direction: row;
+  gap: 35px;
+  margin-left: 97px;
+}
+.nav-1{
+  background: transparent;
+  color: rgb(200, 200, 200);
+  font-weight: 500;
+  font-size: 11.5px;
+}
+.nav-btn{
+  background: transparent;
+  display: flex;
+  flex-direction: row;
+  margin-left: 328px;
+  margin-top: -9.5px;
+}
+.nav-btn-1{
+  background: transparent;
+  color: rgb(200, 200, 200);
+  font-weight: 500;
+  font-size: 11.5px;
+  padding-right: 21px;
+  padding-top: 9px;
+}
+.nav-btn-2{
+  background: #F4694C;
+  font-size: 11.5px;
+  color: white;
+  font-weight: 500;
+  padding-left: 27.5px;
+  padding-right: 27.5px;
+  height: 37px;
+  padding-top: 9px;
+}
