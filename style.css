@@ -21,7 +21,7 @@
 }
 .nav-logo{
   background: transparent;
-  margin-left: 102px;
+  margin-left: 100px;
 }
 .nav-logo img{
   width: 118px;
@@ -122,9 +122,39 @@
   border: 1.5px solid white;
 }
 .get-right{
+  margin-left: 100px;
   background: transparent;
   width: 50%;
 }
+.get-play{
+
+}
+.get-play img{
+  width: 67px;
+  margin-left: 206px;
+  margin-top: 80px;
+}
 .get-footer{
   background: transparent;
+  display: flex;
+  flex-direction: row;
+  margin-top: 114px;
+  margin-left: 105px;
+}
+.get-dash img{
+  width: 45px;
+  padding-bottom: 3px;
+  padding-right: 10px;
+}
+.get-king{
+  width: 210px;
+  color: white;
+  font-size: 20.2px;
+  padding-left: 2px;
+  padding-top: -5px;
+}
+.get-right-arrow img{
+  padding-top: 73px;
+  width: 53px;
+  margin-left: 35px;
 }
