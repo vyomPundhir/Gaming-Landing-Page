@@ -126,9 +126,6 @@
   background: transparent;
   width: 50%;
 }
-.get-play{
-
-}
 .get-play img{
   width: 67px;
   margin-left: 206px;
@@ -157,4 +154,35 @@
   padding-top: 73px;
   width: 53px;
   margin-left: 35px;
+}
+
+/* most-popular section */
+.popular{
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pop-head{
+  text-align: center;
+  font-size: 34px;
+  font-weight: 700;
+  width: 600px;
+  margin-top: 144px;
+}
+.pop-games{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+  gap: 20px;
+}
+.pop-img{
+  width: 238px;
+  height: 284px;
+}
+.pop-des{
+  position: absolute;
+  margin-top: -100px;
+  width: 238px;
 }
