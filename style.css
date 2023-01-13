@@ -216,3 +216,59 @@
 .pop-star img{
   width: 10px;
 }
+/* war-game section*/
+.war-game{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 80px;
+  height: 500px;
+  padding-top: 40px;
+}
+.war-left img{
+  width: 421px;
+  height: 338px;
+  margin-left: -10px;
+}
+.war-right{
+  width: 500px;
+  margin-top: 12px;
+}
+.war-head{
+  font-size: 34px;
+  font-weight: 700;
+  width: 450px;
+}
+.war-des{
+  font-size: 11.8px;
+  color: rgb(155, 154, 154);
+  width: 435px;
+  font-weight: 500;
+  line-height: 23.5px;
+  padding-top: 13px;
+}
+.war-btn{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-top: 34px;
+}
+.war-btn-1{
+  font-size: 13.5px;
+  color: white;
+  background-color: #F4694C;
+  font-weight: 500;
+  padding-left: 29px;
+  padding-right: 29px;
+  padding-top: 12px;
+  padding-bottom: 11px;
+}
+.war-btn-2{
+  font-size: 13.5px;
+  color: #F4694C;
+  border: #F4694C solid 1.5px;
+  padding-left: 31px;
+  padding-right: 31px;
+  padding-top: 12px;
+  padding-bottom: 11px;
+}
