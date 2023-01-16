@@ -272,3 +272,121 @@
   padding-top: 12px;
   padding-bottom: 11px;
 }
+/* Week games section */
+.week-games{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.week-header{
+  display: flex;
+  flex-direction: row;
+}
+.week-head{
+  margin-top: 31px;
+  margin-left: 100px;
+  font-size: 33.6px;
+  font-weight: 700;
+  width: 400px;
+}
+.week-head-btn{
+  display: flex;
+  flex-direction: row;
+  width: 117.5px;
+  margin-left: 492px;
+  margin-top: 54px;
+}
+.left-arr{
+  background: rgb(245, 210, 199);
+  width: 52px;
+  height: 52px;
+}
+.left-arr img{
+  width: 38px;
+  padding-top: 23px;
+  padding-left: 15.5px;
+}
+.right-arr{
+  background-color: #F4694C;
+  width: 52px;
+  height: 52px;
+  margin-left: 13.5px;
+}
+.right-arr img{
+  width: 41px;
+  padding-top: 23px;
+  padding-left: 13px;
+}
+.recom-1{
+  display: flex;
+  flex-direction: row;
+}
+.week-game-1{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.week-game-2{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.recom-2{
+  display: flex;
+  flex-direction: row;
+}
+.week-game-3{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.week-game-4{
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+.week-game-img-1{
+  width: 200px;
+  height: 230px;
+  padding-left: 101px;
+  padding-top: 2px;
+}
+.week-game-img-2{
+  width: 200px;
+  height: 230px;
+  padding-left: 80px;
+  padding-top: 2px;
+}
+.week-game-img-3{
+  width: 200px;
+  height: 230px;
+  padding-left: 101px;
+  padding-top: 27px;
+}
+.week-game-img-4{
+  width: 200px;
+  height: 230px;
+  padding-left: 80px;
+  padding-top: 27px;
+}
+.week-game-img-1 img{
+  width: 196px;
+  height: 230px;
+}
+.week-game-img-2 img{
+  width: 196px;
+  height: 230px;
+}
+.week-game-img-3 img{
+  width: 196px;
+  height: 230px;
+}
+.week-game-img-4 img{
+  width: 196px;
+  height: 230px;
+}
+.wg-name{
+  font-size: 20px;
+  font-weight: 700;
+  width: 240px;
+}
