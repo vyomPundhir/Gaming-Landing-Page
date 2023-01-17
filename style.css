@@ -218,6 +218,7 @@
 }
 /* war-game section*/
 .war-game{
+  
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -277,6 +278,7 @@
   display: flex;
   flex-direction: column;
   gap: 50px;
+  height: 871px;
 }
 .week-header{
   display: flex;
@@ -330,6 +332,7 @@
   display: flex;
   flex-direction: row;
   gap: 25px;
+  margin-left: -19px;
 }
 .recom-2{
   display: flex;
@@ -344,6 +347,7 @@
   display: flex;
   flex-direction: row;
   gap: 25px;
+  margin-left: -19px;
 }
 .week-game-img-1{
   width: 200px;
@@ -366,7 +370,7 @@
 .week-game-img-4{
   width: 200px;
   height: 230px;
-  padding-left: 80px;
+  padding-left: 79px;
   padding-top: 27px;
 }
 .week-game-img-1 img{
@@ -387,6 +391,46 @@
 }
 .wg-name{
   font-size: 20px;
-  font-weight: 700;
+  font-weight: 600;
   width: 240px;
+}
+.wg-des-1{
+  margin-left: 99px;
+  margin-top: 11px;
+}
+.wg-des-2{
+  margin-left: 77px;
+  margin-top: 11px;
+}
+.wg-des-3{
+  margin-left: 100px;
+  margin-top: 36px;
+}
+.wg-des-4{
+  margin-left: 77px;
+  margin-top: 36px;
+}
+.war-type{
+  font-size: 13.4px;
+  font-weight: 600;
+  color: #F4694C;
+  margin-top: 8px;
+}
+.war-cnt{
+  font-size: 12px;
+  font-weight: 500;
+  color: grey;
+  line-height: 23px;
+  margin-top: 15px;
+  width: 260px;
+}
+.war-down{
+  margin-top: 20px;
+  padding-top: 11.5px;
+  padding-bottom:11.5px;
+  text-align: center;
+  width: 130px;
+  font-size: 13.5px;
+  color: white;
+  background-color: #F4694C;
 }
