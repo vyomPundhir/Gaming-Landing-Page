@@ -437,11 +437,13 @@
 /* most played games section */
 .bgimage{
   background-color: #000308;
-  height: 1000px;
+  height: 790px;
+  width: 1212.8px;
 }
-.bgimage{
-  padding-top: 500px;
-  padding-left: 100px;
+.bgimage img{
+  width: 790px;
+  margin-top: 327px;
+  margin-left: 422px;
 }
 .mostgames{
   width: 100%;
@@ -450,7 +452,7 @@
   flex-direction: column;
   align-items: center;
   position: absolute;
-  margin-top: -1000px;
+  margin-top: -790px;
   gap: 37px;
 }
 .most-head{
@@ -460,48 +462,58 @@
   width: 350px;
   text-align: center;
   padding-top: 52px;
+  background: transparent;
 }
 .most-cnt{
   display: flex;
   flex-direction: row;
-  gap: 52px;
+  gap: 51px;
+  background: transparent;
 }
 .most-img{
-
+  background: transparent;
 }
 .most-img img{
  width: 337px;
  height: 387px;
- margin-left: -122px;
+ margin-left: -76px;
  margin-top: -3px;
+ background: transparent;
 }
 .most-img-lst{
   display: flex;
   flex-direction: column;
-  gap: 62px;
+  gap: 63px;
+  background: transparent;
 }
 .most-des{
   color: grey;
   font-size: 11.6px;
   font-weight: 500;
   width: 500px;
-  line-height: 24px;
+  line-height: 23.7px;
   margin-top: 40px;
+  background: transparent;
 }
 .most-images{
   display: flex;
   flex-direction: row;
-
+  gap: 39px;
+  background: transparent;
 }
 .most-img-1{
-
+background: transparent;
 }
 .most-img-1 img{
-  width: 252px;
+  width: 253px;
+  margin-top: -1px;
+  background: transparent;
 }
 .most-img-2{
-  
+  background: transparent;
 }
 .most-img-2 img{
-  width: 240px;
+  background: transparent;
+  width: 253px;
+  margin-top: 125px;
 }
