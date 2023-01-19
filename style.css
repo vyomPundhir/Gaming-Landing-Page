@@ -517,3 +517,46 @@ background: transparent;
   width: 253px;
   margin-top: 125px;
 }
+/* experience section */
+.game-exp{
+  width: 1212.8px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+}
+.exp-1{
+  width: 400px;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font-weight: 700;
+}
+.exp-2{
+  text-align: center;
+  width: 310px;
+  color: rgb(118, 118, 118);
+  font-size: 11.8px;
+  font-weight: 500;
+  margin-top: 13px;
+  padding-left: 7px;
+}
+.exp-3{
+  text-align: center;
+  padding-top: 12px;
+  width: 138px;
+  height: 45px;
+  background-color: #F4694C;
+  color: white;
+  font-size: 13.3px;
+  font-weight: 500;
+  margin-top: 35px;
+  margin-left: 5px;
+}
+.game-exp-bgc{
+ background: #000308;
+}
+.game-exp-bgc img{
+  width: 1212.8px;
+}
