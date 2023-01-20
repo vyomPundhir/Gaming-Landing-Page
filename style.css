@@ -519,7 +519,7 @@ background: transparent;
 }
 /* experience section */
 .game-exp{
-  width: 1212.8px;
+  width: 100%;
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -559,4 +559,64 @@ background: transparent;
 }
 .game-exp-bgc img{
   width: 1212.8px;
+}
+/* footer section */
+.footer{
+  display: flex;
+  flex-direction: column;
+}
+.ft-cnt{
+  display: flex;
+  flex-direction: row;
+  background-color: #000308;
+  height: 280px;
+  border-bottom: solid rgb(54, 54, 72) 1px;
+}
+.ft-1{
+  margin-top: 45px;
+  margin-left: 100px;
+}
+.ft-logo img{
+  width: 102.4px;
+  padding-left: 1px;
+}
+.ft-subscribe{
+  margin-top: 3px;
+  width: 170px;
+  font-size: 11.8px;
+  font-weight: 500;
+  color: grey;
+  line-height: 23.5px;
+}
+.ft-social{
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  margin-top: 13px;
+}
+.fb,.ig,.tw{
+  width: 33px;
+  margin-top: 7px;
+}
+.ft-2,.ft-3,.ft-4,.ft-5{
+  display: flex;
+  flex-direction: column;
+  margin-left: 80px;
+  margin-top: 45px;
+}
+.art-head,.lg-head,.tm-head,.con-head{
+  color: white;
+  font-size: 13.8px;
+  font-weight: 500;
+  padding-bottom: 5px;
+}
+.art-menu,.lg-menu,.tm-menu,.con-menu{
+  color: grey;
+  font-size: 13.6px;
+  font-weight: 400;
+  margin-top: 14px;
+}
+.blnk{
+  height: 67px;
+  background-color: rgb(0, 0, 16);
 }
