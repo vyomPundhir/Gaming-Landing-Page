@@ -77,6 +77,6 @@ https://gaming-landing-page-six.vercel.app/
 
 ## You can Check it Live on Below Link :
 
-> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://vscode-homepage-ui-clone.vercel.app/)
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](https://gaming-landing-page-six.vercel.app/)
 
 ---
